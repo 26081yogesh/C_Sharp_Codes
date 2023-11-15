@@ -1,0 +1,11 @@
+D:\C# Codes\Enums\Enums\obj\Debug\netcoreapp2.2\Enums.AssemblyInfoInputs.cache
+D:\C# Codes\Enums\Enums\obj\Debug\netcoreapp2.2\Enums.AssemblyInfo.cs
+D:\C# Codes\Enums\Enums\obj\Debug\netcoreapp2.2\Enums.csproj.CoreCompileInputs.cache
+D:\C# Codes\Enums\Enums\bin\Debug\netcoreapp2.2\Enums.deps.json
+D:\C# Codes\Enums\Enums\bin\Debug\netcoreapp2.2\Enums.runtimeconfig.json
+D:\C# Codes\Enums\Enums\bin\Debug\netcoreapp2.2\Enums.runtimeconfig.dev.json
+D:\C# Codes\Enums\Enums\bin\Debug\netcoreapp2.2\Enums.dll
+D:\C# Codes\Enums\Enums\bin\Debug\netcoreapp2.2\Enums.pdb
+D:\C# Codes\Enums\Enums\obj\Debug\netcoreapp2.2\Enums.dll
+D:\C# Codes\Enums\Enums\obj\Debug\netcoreapp2.2\Enums.pdb
+D:\C# Codes\Enums\Enums\obj\Debug\netcoreapp2.2\Enums.genruntimeconfig.cache

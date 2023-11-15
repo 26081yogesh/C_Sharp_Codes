@@ -1,0 +1,11 @@
+D:\C# Codes\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.deps.json
+D:\C# Codes\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.runtimeconfig.json
+D:\C# Codes\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.runtimeconfig.dev.json
+D:\C# Codes\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.dll
+D:\C# Codes\Inheritance\Inheritance\bin\Debug\netcoreapp2.2\Inheritance.pdb
+D:\C# Codes\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.AssemblyInfoInputs.cache
+D:\C# Codes\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.AssemblyInfo.cs
+D:\C# Codes\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.csproj.CoreCompileInputs.cache
+D:\C# Codes\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.dll
+D:\C# Codes\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.pdb
+D:\C# Codes\Inheritance\Inheritance\obj\Debug\netcoreapp2.2\Inheritance.genruntimeconfig.cache

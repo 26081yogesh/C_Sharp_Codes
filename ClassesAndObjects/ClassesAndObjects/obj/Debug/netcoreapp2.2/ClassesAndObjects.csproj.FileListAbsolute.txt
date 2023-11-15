@@ -1,0 +1,12 @@
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.2\ClassesAndObjects.deps.json
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.2\ClassesAndObjects.runtimeconfig.json
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.2\ClassesAndObjects.runtimeconfig.dev.json
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.2\ClassesAndObjects.dll
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.2\ClassesAndObjects.pdb
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.2\ClassesAndObjects.csproj.AssemblyReference.cache
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.2\ClassesAndObjects.AssemblyInfoInputs.cache
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.2\ClassesAndObjects.AssemblyInfo.cs
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.2\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.2\ClassesAndObjects.dll
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.2\ClassesAndObjects.pdb
+D:\C# Codes\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.2\ClassesAndObjects.genruntimeconfig.cache

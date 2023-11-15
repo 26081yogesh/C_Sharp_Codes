@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEdeE2j6pK8ehWdupELIIz3l2Y6I3akq3CRuJNh3Ygv1fzxwSBLZVOJW6NeS5NnVb1RKX8Fd/W10033Egi1jqA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Codes\\AbstractClasses\\AbstractClasses\\AbstractClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yogesh.yadav_intern\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\yogesh.yadav_intern\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\yogesh.yadav_intern\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\yogesh.yadav_intern\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\yogesh.yadav_intern\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\yogesh.yadav_intern\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\yogesh.yadav_intern\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

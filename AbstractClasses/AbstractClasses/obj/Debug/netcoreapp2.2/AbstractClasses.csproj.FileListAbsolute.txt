@@ -1,0 +1,12 @@
+D:\C# Codes\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp2.2\AbstractClasses.deps.json
+D:\C# Codes\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp2.2\AbstractClasses.runtimeconfig.json
+D:\C# Codes\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp2.2\AbstractClasses.runtimeconfig.dev.json
+D:\C# Codes\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp2.2\AbstractClasses.dll
+D:\C# Codes\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp2.2\AbstractClasses.pdb
+D:\C# Codes\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp2.2\AbstractClasses.csproj.AssemblyReference.cache
+D:\C# Codes\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp2.2\AbstractClasses.AssemblyInfoInputs.cache
+D:\C# Codes\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp2.2\AbstractClasses.AssemblyInfo.cs
+D:\C# Codes\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp2.2\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\C# Codes\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp2.2\AbstractClasses.dll
+D:\C# Codes\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp2.2\AbstractClasses.pdb
+D:\C# Codes\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp2.2\AbstractClasses.genruntimeconfig.cache
